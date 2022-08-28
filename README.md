@@ -1,2 +1,9 @@
-# tn_challenge
-Create an api with 2 endpoints that handles tasks
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+node server.js
+```
